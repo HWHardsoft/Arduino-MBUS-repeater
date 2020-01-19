@@ -9,6 +9,7 @@ Useful to test our [MBUS shield](https://www.hwhardsoft.de/english/projects/m-bu
 ## Hardware
 
 [Arduino MKR of your choice](https://store.arduino.cc/)
+
 [MBUS shield](https://www.hwhardsoft.de/english/projects/m-bus-mkr-shield/)
 
 
