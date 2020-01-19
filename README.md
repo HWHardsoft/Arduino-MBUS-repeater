@@ -5,12 +5,16 @@ Useful to test our [MBUS shield](https://www.hwhardsoft.de/english/projects/m-bu
 
 ![My image](https://user-images.githubusercontent.com/3049858/72681999-3a597480-3ac9-11ea-857b-fae4e47f3a2b.jpg)
 
+![My image](https://user-images.githubusercontent.com/3049858/72682112-18acbd00-3aca-11ea-9c4c-bc3078384f84.jpg)
+
 
 ## Hardware
 
 [Arduino MKR of your choice](https://store.arduino.cc/)
 
 [MBUS shield](https://www.hwhardsoft.de/english/projects/m-bus-mkr-shield/)
+
+MBUS device (meter) of your choice
 
 
 ## Usage
