@@ -3,7 +3,7 @@
 This software will only repeat the serial communication of the serial port to serial1 port of the Arduino MKR and back.  
 Useful to test our [MBUS shield](https://www.hwhardsoft.de/english/projects/m-bus-mkr-shield/) and your MBUS devices.
 
-![My image](https://hackster.imgix.net/uploads/attachments/1035416/_utvfqYvJK0.blob?auto=compress%2Cformat&w=900&h=675&fit=min)
+![My image](https://user-images.githubusercontent.com/3049858/72681999-3a597480-3ac9-11ea-857b-fae4e47f3a2b.jpg)
 
 
 ## Hardware
