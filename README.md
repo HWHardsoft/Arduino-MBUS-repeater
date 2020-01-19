@@ -18,7 +18,7 @@ You will need the free software [LorusFree](https://www.m-bus.de/lorus_download/
 
 Set the COM-Port in LorusFree to the Arduino-Port, Baud rate to 2400 and press the Readout button:
 
-![My image](https://hackster.imgix.net/uploads/attachments/1035416/_utvfqYvJK0.blob?auto=compress%2Cformat&w=900&h=675&fit=min)
+![My image](https://user-images.githubusercontent.com/3049858/72682001-3b8aa180-3ac9-11ea-943b-ca9b710ba540.jpg)
 
 
 ## License
