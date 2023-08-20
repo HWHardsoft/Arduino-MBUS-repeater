@@ -19,7 +19,7 @@ MBUS device (meter) of your choice
 
 ## Usage
 
-You will need the free software [LorusFree](https://www.m-bus.de/lorus_download/lor261021.zip) to read MBUS devices.
+You will need the free software [LorusFree]([https://www.m-bus.de/lorus_download/lor261021.zip](https://web.archive.org/web/20220817155914/https://www.m-bus.de/lorus_download/lor240122.zip)) to read MBUS devices.
 
 Set the COM-Port in LorusFree to the Arduino-Port, Baud rate to 2400 and press the Readout button:
 
